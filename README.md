@@ -22,10 +22,8 @@ This repository is to accompany my Alexa Enabled eLearning Tracker Video:
 
 ## Parts (Amazon Links)
 
-NodeMCU	                	https://amzn.to/3e1PFPj
+NodeMCU Microcontroller: https://amzn.to/3e6SDSM
 
+Addressible LEDS: https://amzn.to/3aTr5yd
 
-WS2812B LED Strip	 	https://amzn.to/3e1PFPj
-
-
-Jumper Wires		          https://amzn.to/3e1PFPj
+Jumper Wires: https://amzn.to/3e1PFPj
