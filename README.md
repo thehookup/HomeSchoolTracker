@@ -2,7 +2,7 @@
 
 This repository is to accompany my Alexa Enabled eLearning Tracker Video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2j3UyrBjB4g/0.jpg)](https://www.youtube.com/watch?v=2j3UyrBjB4g)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZWKHSF1f65w/0.jpg)](https://www.youtube.com/watch?v=ZWKHSF1f65w)
 
 
 ## Initial Setup
